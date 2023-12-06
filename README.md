@@ -1,6 +1,6 @@
 ---
 
-![image](https://github.com/AndreCoutinhom/aws_security_case/assets/91290799/f9c87bee-7fe0-43c8-9d22-334f7fb56b11)
+![image](https://github.com/AndreCoutinhom/aws_security_case/assets/91290799/a243e570-e75a-4178-8c53-f0c7ae40a72c)
 
 
 ---
